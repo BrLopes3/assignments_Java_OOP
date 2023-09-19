@@ -1,0 +1,16 @@
+package client;
+
+import bus.Operation;
+
+public class Calculator {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double result;
+		
+		result = Operation.add(2.33, 4.50);
+		System.out.print(result);
+
+	}
+
+}

@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\brlop\Documents\workspace-calculators\.metadata\.plugins\org.eclipse.jdt.core
+4177445952.index
+1865797976.index
+384869740.index
+1643615738.index
