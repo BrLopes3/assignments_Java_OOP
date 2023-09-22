@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Program {
 	
+	// static methods with operations (static, because we can call them without creation of an object)
 	
 	public static int add(int parm1, int parm2) {
 		
@@ -22,6 +23,7 @@ public class Program {
 			return parm1/parm2;
 		}
 		else {
+			System.out.println("Division by zero not allowed!");
 			return 0;
 		}
 		
@@ -32,6 +34,7 @@ public class Program {
 			return parm1%parm2;
 		}
 		else {
+			System.out.println("Division by zero not allowed!");
 			return 0;
 		}
 	}
